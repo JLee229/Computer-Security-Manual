@@ -1,6 +1,7 @@
 # Computer Security Manual 
 
 **Document Version:** 1.0
+
 **Pages: 6**
 
 ## Overview
